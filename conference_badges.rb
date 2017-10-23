@@ -1,17 +1,16 @@
 # Write your code here.
-def badge_maker(name)
-  name = name
+def badge_maker(names)
   puts "Hello, my name is #{name}."
 end
 
-def batch_badge_creator
+def batch_badge_creator(attendees)
+  
+end
+
+def assign_rooms(room)
 
 end
 
-def assign_rooms
-
-end
-
-def printer
+def printer(attendees)
 
 end
